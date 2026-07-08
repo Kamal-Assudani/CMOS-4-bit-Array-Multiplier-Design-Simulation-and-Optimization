@@ -67,12 +67,11 @@ This project presents the design and SPICE-based simulation of a **4-bit CMOS ar
   * Transistor count
 * Demonstrated trade-offs between **speed, power, and area**
 
-> ⚠️ *Detailed numerical results and waveforms are available in the `/results` and `/reports` directories.*
+> *Detailed numerical results and waveforms are available in the `/results` and `/reports` directories.*
 
 ---
 
 ## 📁 Repository Structure
-
 ```
 circuits/        → CMOS gate, adder, and multiplier designs  
 simulations/     → VTC, delay, and waveform simulations  
@@ -80,8 +79,6 @@ results/         → Plots, measurements, comparison data
 reports/         → Final project report  
 tech_files/      → Technology and library files  
 ```
-
----
 
 ## 🧪 Tools Used
 
@@ -119,3 +116,7 @@ Indian Institute of Technology Goa
 Varun Hirani
 Electrical Engineering, IIT Goa
 📧 [hirani.varun@gmail.com](mailto:hirani.varun@gmail.com)
+
+Kamal Assudani
+Electrical Engineering, IIT Goa
+📧 [kamal.assudani.23063@iitgoa.ac.in](mailto:kamal.assudani.23063@iitgoa.ac.in)
