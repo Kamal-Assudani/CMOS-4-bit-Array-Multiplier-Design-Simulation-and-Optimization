@@ -74,15 +74,15 @@ This project presents the design and SPICE-based simulation of a **4-bit CMOS ar
 ## 📁 Repository Structure
 ```
 circuits/        → CMOS gate, adder, and multiplier designs  
-simulations/     → VTC, delay, and waveform simulations  
+simulations/     → VTC, delay, and waveform simulations and verifiable screenshots 
 results/         → Plots, measurements, comparison data  
 reports/         → Final project report  
 tech_files/      → Technology and library files  
 ```
 
 ## 🧪 Tools Used
-
-* LTspice / NGspice
+* Tanner EDA Tool
+* LTspice
 * CMOS VLSI design principles
 
 ---
